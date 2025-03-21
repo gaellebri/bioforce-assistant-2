@@ -1,0 +1,24 @@
+# Dépendances
+node_modules/
+**/node_modules/
+
+# Builds et distributions
+build/
+dist/
+out/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+
+# Fichiers de log
+*.log
+
+# Environnement
+.env
+test-api.js
+encrypt-key.js
